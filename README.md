@@ -1,4 +1,4 @@
-#5CHANGEEEEEEEE# Mutex.lock(key, lifetime, callback) / Mutex.free(key, callback)
+#6CHANGEEEEEEEE# Mutex.lock(key, lifetime, callback) / Mutex.free(key, callback)
     
 ```javascript
 // Initialize mutex object
