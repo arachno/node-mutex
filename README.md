@@ -1,3 +1,4 @@
+GLOOOOO
 #6CHANGEEEEEEEE# Mutex.lock(key, lifetime, callback) / Mutex.free(key, callback)
     
 ```javascript
